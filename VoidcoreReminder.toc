@@ -1,0 +1,8 @@
+## Interface: 120005
+## Title: VoidcoreReminder
+## Notes: Warns you when entering a Mythic raid without Nebulous Voidcores
+## Author: You
+## Version: 1.0
+## SavedVariables: VoidcoreReminderDB
+
+VoidcoreReminder.lua
